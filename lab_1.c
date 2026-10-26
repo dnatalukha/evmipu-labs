@@ -3,7 +3,7 @@
 
 int main() 
 {
-    const long long N = 2000000000LL;
+    const long long N = 4000000000LL;
 
     struct timespec start, end;
     clock_gettime(CLOCK_MONOTONIC, &start);
